@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<!-- ==================================== Spacer =====================================-->
-
-	<ThingDef ParentName="ArmorMachineableBase">
+  <!-- ==================================== Spacer =====================================-->
+  <ThingDef ParentName="ArmorMachineableBase">
     <defName>Apparel_SegmentataArmor</defName>
     <label>SegmentataArmor</label>
     <description>Based on an antique design from eons past, the Segmentata is a lighter and less labor-intensive alternative to full plate armor which comes in orante segments. Although its relatively weaker plates also won't protect the arms, it is more maneuverable, socially impressive, and slightly insulated against the cold.</description>
@@ -34,41 +32,35 @@
       <Insulation_Cold>5</Insulation_Cold>
       <EquipDelay>9</EquipDelay>
     </statBases>
-	
     <equippedStatOffsets>
       <MoveSpeed>-0.4</MoveSpeed>
-	  <SocialImpact>0.10</SocialImpact>
+      <SocialImpact>0.10</SocialImpact>
     </equippedStatOffsets>
-	
     <thingCategories>
       <li>Apparel</li>
     </thingCategories>
-
     <costList>
       <Steel>100</Steel>
       <Cloth>25</Cloth>
     </costList>
-	
-		<apparel>
-			<bodyPartGroups>
-				<li>Torso</li>
-				<li>Shoulders</li>
-			</bodyPartGroups>
-			<wornGraphicPath>Things/Apparel/SegmentataArmor/SegmentataArmor</wornGraphicPath>
-			<layers>
-				<li>Middle</li>
-				<li>Shell</li>
-			</layers>
-			<tags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/SegmentataArmor/SegmentataArmor</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+      <tags>
         <li>MedievalMilitary</li>
       </tags>
-	  
       <defaultOutfitTags>
         <li>Soldier</li>
       </defaultOutfitTags>
       <useDeflectMetalEffect>true</useDeflectMetalEffect>
     </apparel>
-	
     <!--<colorGenerator Class="ColorGenerator_Options">
       <options>
         <li>
@@ -94,5 +86,4 @@
       <li>RewardSpecial</li>
     </thingSetMakerTags>
   </ThingDef>
-
 </Defs>

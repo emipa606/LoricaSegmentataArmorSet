@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Lorica Segmentata Armor Set (Continued)</name>
-  	<packageId>Mlie.LoricaSegmentataArmorSet</packageId>
-	<author>VerdeCaelum</author>
-	<url>https://github.com/emipa606/LoricaSegmentataArmorSet</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of VerdeCaelums mod for RimWorld 1.1
+  <name>Lorica Segmentata Armor Set (Continued)</name>
+  <packageId>Mlie.LoricaSegmentataArmorSet</packageId>
+  <author>VerdeCaelum</author>
+  <url>https://github.com/emipa606/LoricaSegmentataArmorSet</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of VerdeCaelums mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1506619042
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]

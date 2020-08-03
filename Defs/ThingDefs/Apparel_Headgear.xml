@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="ArmorHelmetMakeableBase">
     <defName>Apparel_SegmentataHelmet</defName>
     <label>Segmentata Helmet</label>
@@ -25,7 +24,7 @@
     <statBases>
       <WorkToMake>4000</WorkToMake>
       <MaxHitPoints>110</MaxHitPoints>
-	  <Mass>2.2</Mass>
+      <Mass>2.2</Mass>
       <Flammability>0.4</Flammability>
       <ArmorRating_Sharp>0.54</ArmorRating_Sharp>
       <ArmorRating_Blunt>0.24</ArmorRating_Blunt>
@@ -37,16 +36,16 @@
       <Steel>40</Steel>
       <Cloth>10</Cloth>
     </costList>
-		<apparel>
-			<bodyPartGroups>
-				<li>FullHead</li>
-				<li>Neck</li>
-			</bodyPartGroups>
-			<wornGraphicPath>Things/Apparel/SegmentataHelm/SegmentataHelm</wornGraphicPath>
-			<layers>
-				<li>Overhead</li>
-			</layers>
-			<tags>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+        <li>Neck</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/SegmentataHelm/SegmentataHelm</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
         <li>MedievalMilitary</li>
       </tags>
       <defaultOutfitTags>
@@ -54,12 +53,10 @@
       </defaultOutfitTags>
       <useDeflectMetalEffect>true</useDeflectMetalEffect>
     </apparel>
-	
-	<equippedStatOffsets>
-	  <SocialImpact>0.10</SocialImpact>
+    <equippedStatOffsets>
+      <SocialImpact>0.10</SocialImpact>
     </equippedStatOffsets>
-	
-	<!--<colorGenerator Class="ColorGenerator_Options">
+    <!--<colorGenerator Class="ColorGenerator_Options">
       <options>
         <li>
           <weight>10</weight>
@@ -80,10 +77,8 @@
         </li>
       </options>
     </colorGenerator>-->
-	
     <thingSetMakerTags>
       <li>RewardSpecial</li>
     </thingSetMakerTags>
   </ThingDef>
-
 </Defs>
