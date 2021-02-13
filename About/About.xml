@@ -11,32 +11,48 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of VerdeCaelums mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of VerdeCaelums mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1506619042
 
-[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/LoricaSegmentataArmorSet
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/LoricaSegmentataArmorSet][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 A set of Roman Armor befitting Rimworld's Gladius and Pila was nowhere to be found. So I came, I saw, I modded
 
-STATS
-- In terms of stats and production cost, the helmet is in between the simple and advanced helmet, while the armor is slightly worse than vanilla plate armor. They both require at least 5 crafting skill
-- They both have basic insulation against cold, a social bonus, and the armor does not slow your pawns down as much as plate armor does (same speed as Power Armor)
-- They are both unlocked on Smithing so you can craft them alongside the Gladius and belong to the Medieval tech level
-- Other pawns may be found wearing these, friend and foe alike
-- They are currently not stuffed and exclusively made of steel because the shade of steel was so dark I would have to white wash all my sprites
+ STATS
+ - In terms of stats and production cost, the helmet is in between the simple and advanced helmet, while the armor is slightly worse than vanilla plate armor. They both require at least 5 crafting skill
+ - They both have basic insulation against cold, a social bonus, and the armor does not slow your pawns down as much as plate armor does (same speed as Power Armor)
+ - They are both unlocked on Smithing so you can craft them alongside the Gladius and belong to the Medieval tech level
+ - Other pawns may be found wearing these, friend and foe alike
+ - They are currently not stuffed and exclusively made of steel because the shade of steel was so dark I would have to white wash all my sprites 
 
-CAVEATS
-- The sprites may not look vanilla friendly and the final product didn't quite satisfy me either. I'll release a completely improved aesthetic along with the upcoming 1.0 update, hopefully stuffed and with other armor models
-- Also planned to be relased in said update when it comes is a Scutum, either as a separate secondary weapon, a different armor layer, or just added onto the sprite of the armor as a decorative touch
-- Not all my mods are updated, but feel free to check out my other mods here https://steamcommunity.com/sharedfiles/filedetails/?id=1209650945
+ CAVEATS
+ - The sprites may not look vanilla friendly and the final product didn't quite satisfy me either. I'll release a completely improved aesthetic along with the upcoming 1.0 update, hopefully stuffed and with other armor models
+ - Also planned to be relased in said update when it comes is a Scutum, either as a separate secondary weapon, a different armor layer, or just added onto the sprite of the armor as a decorative touch
+ - Not all my mods are updated, but feel free to check out my other mods here https://steamcommunity.com/sharedfiles/filedetails/?id=1209650945
 
-COMPATIBILITY
-- No conflicts with any mods that I know of</description>
+ COMPATIBILITY
+ - No conflicts with any mods that I know of
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

@@ -3,7 +3,7 @@
   <!-- ==================================== Spacer =====================================-->
   <ThingDef ParentName="ArmorMachineableBase">
     <defName>Apparel_SegmentataArmor</defName>
-    <label>SegmentataArmor</label>
+    <label>Segmentata Armor</label>
     <description>Based on an antique design from eons past, the Segmentata is a lighter and less labor-intensive alternative to full plate armor which comes in orante segments. Although its relatively weaker plates also won't protect the arms, it is more maneuverable, socially impressive, and slightly insulated against the cold.</description>
     <techLevel>Medieval</techLevel>
     <recipeMaker>
