@@ -1,26 +1,17 @@
 # LoricaSegmentataArmorSet
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of VerdeCaelums mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1506619042
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/LoricaSegmentataArmorSet]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-A set of Roman Armor befitting Rimworld&apos;s Gladius and Pila was nowhere to be found. So I came, I saw, I modded
+A set of Roman Armor befitting Rimworld's Gladius and Pila was nowhere to be found. So I came, I saw, I modded
 
  STATS
  - In terms of stats and production cost, the helmet is in between the simple and advanced helmet, while the armor is slightly worse than vanilla plate armor. They both require at least 5 crafting skill
@@ -30,7 +21,7 @@ A set of Roman Armor befitting Rimworld&apos;s Gladius and Pila was nowhere to b
  - They are currently not stuffed and exclusively made of steel because the shade of steel was so dark I would have to white wash all my sprites 
 
  CAVEATS
- - The sprites may not look vanilla friendly and the final product didn&apos;t quite satisfy me either. I&apos;ll release a completely improved aesthetic along with the upcoming 1.0 update, hopefully stuffed and with other armor models
+ - The sprites may not look vanilla friendly and the final product didn't quite satisfy me either. I'll release a completely improved aesthetic along with the upcoming 1.0 update, hopefully stuffed and with other armor models
  - Also planned to be relased in said update when it comes is a Scutum, either as a separate secondary weapon, a different armor layer, or just added onto the sprite of the armor as a decorative touch
  - Not all my mods are updated, but feel free to check out my other mods here https://steamcommunity.com/sharedfiles/filedetails/?id=1209650945
 
@@ -38,7 +29,7 @@ A set of Roman Armor befitting Rimworld&apos;s Gladius and Pila was nowhere to b
  - No conflicts with any mods that I know of
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
