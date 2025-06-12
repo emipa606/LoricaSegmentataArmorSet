@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2786740472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2441dcf5c258bb7280ea336fb9c37862
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2441dcf5c258bb7280ea336fb9c37862
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Hulk_east.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Male_east.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/Untitled.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Hulk_north.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Female_north.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataHelm/SegmentataHelm_south.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/TestPiece.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Fat_south.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Fat_north.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Thin_south.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataHelm/SegmentataHelm_east.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Thin_east.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Hulk_south.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Thin_north.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataHelm/SegmentataHelm_north.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Male_south.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataHelm/SegmentataHelm.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Female_south.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Female_east.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Fat_east.png
+- Assets/Data/Mlie.LoricaSegmentataArmorSet/Textures/Things/Apparel/SegmentataArmor/SegmentataArmor_Male_north.png
+Dependencies: []
